@@ -70,8 +70,3 @@ The script will create the necessary project folder structure as follows:
 
 This project is licensed under the MIT License.
 ```
-
-### Key Changes:
-- I’ve kept the folder structure and detailed explanation of each file/folder.
-- The folder structure is now in the **"Folder Structure"** section and described clearly.
-- This updated `README.md` should be clean and provide all the necessary information. Let me know if you'd like further changes!
