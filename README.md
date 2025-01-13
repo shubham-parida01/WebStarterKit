@@ -48,7 +48,7 @@ After running the automation script, the following folder structure will be crea
 2. Navigate to the project folder where the script is located.
 3. Run the Python script:
    ```bash
-   python create_project.py
+   python web_project_setup.py
    ```
 4. Enter the desired project name when prompted.
 
