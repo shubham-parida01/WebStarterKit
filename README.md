@@ -69,4 +69,3 @@ The script will create the necessary project folder structure as follows:
 ## License
 
 This project is licensed under the MIT License.
-```
