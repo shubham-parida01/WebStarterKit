@@ -42,6 +42,12 @@ After running the automation script, the following folder structure will be crea
 2. Ensure Python 3.x is installed on your system.
 3. (Optional) Install Git if you plan to use version control.
 
+### **Install via pip**
+You can install the package from PyPI:
+
+```bash
+pip install WebStartKit
+```
 ## Usage
 
 1. Open a terminal or command prompt.
@@ -51,6 +57,18 @@ After running the automation script, the following folder structure will be crea
    python web_project_setup.py
    ```
 4. Enter the desired project name when prompted.
+
+Run the CLI tool
+Once installed, you can generate a new project structure with:
+
+```bash
+WebStarterKit MyProject
+```
+You can also specify a custom path:
+
+```bash
+WebStarterKit MyProject --path /desired/path
+```
 
 The script will create the necessary project folder structure as follows:
 
