@@ -58,7 +58,7 @@ pip install WebStartKit
    ```
 4. Enter the desired project name when prompted.
 
-Run the CLI tool
+# Run the CLI tool
 Once installed, you can generate a new project structure with:
 
 ```bash
